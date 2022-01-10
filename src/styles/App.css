@@ -41,11 +41,16 @@
   width: auto;
   padding-left: 40px;
   padding-right: 40px;
+  margin: 20px;
   border-radius: 5px;
   cursor: pointer;
   font-size: 16px;
   font-weight: bold;
   color: white;
+}
+
+a {
+  display: block;
 }
 
 .connect-wallet-button {
